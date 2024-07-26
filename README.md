@@ -2,15 +2,6 @@
 
 Welcome to my 30 Days of Code Challenge repository! This repository contains my solutions to the 30 Days of Code challenge, which helps improve coding skills by solving various problems using Java. Each day, I tackle a new problem and add my solution here.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Challenges](#challenges)
-- [How to Use](#how-to-use)
-- [Day-wise Solutions](#day-wise-solutions)
-- [Resources](#resources)
-- [License](#license)
-
 ## Introduction
 
 The 30 Days of Code Challenge is designed to help programmers enhance their problem-solving skills and improve their proficiency in programming. Each day presents a new challenge, focusing on different aspects of coding, such as data structures, algorithms, and more. This repository contains my Java solutions to these challenges.
