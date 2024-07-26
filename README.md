@@ -1,7 +1,3 @@
-Here is a README.md content for your "30 Days of Code Challenge" repository using Java:
-
----
-
 # 30 Days of Code Challenge - Java
 
 Welcome to my 30 Days of Code Challenge repository! This repository contains my solutions to the 30 Days of Code challenge, which helps improve coding skills by solving various problems using Java. Each day, I tackle a new problem and add my solution here.
@@ -63,28 +59,4 @@ Each challenge is designed to introduce and reinforce important programming conc
    java Solution
    ```
 
-## Day-wise Solutions
 
-- **[Day 0: Hello, World.](Day0/)** - Introduction to Java and basic input/output.
-- **[Day 1: Data Types](Day1/)** - Working with different data types in Java.
-- **[Day 2: Operators](Day2/)** - Using arithmetic, relational, and logical operators.
-- **[Day 3: Conditional Statements](Day3/)** - Making decisions using if-else statements.
-- **[Day 4: Class vs. Instance](Day4/)** - Understanding classes and instances in OOP.
-- **[Day 5: Loops](Day5/)** - Utilizing loops for repeated tasks.
-- **[Day 6: Let's Review](Day6/)** - String manipulation and loops.
-- **[Day 7: Arrays](Day7/)** - Working with arrays.
-- **[Day 8: Dictionaries and Maps](Day8/)** - Using key-value pair mappings.
-- **...** (and more)
-
-## Resources
-
-- [HackerRank 30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
-- [Java Documentation](https://docs.oracle.com/javase/8/docs/)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the README.md further to fit your needs!
